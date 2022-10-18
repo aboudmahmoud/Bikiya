@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bikiya</string>
+    <string name="APIKey">AIzaSyBvnOCVC6eqFgUm3K5adAs-ciVlLl4_Gtk</string>
+    <string name="Signleton">Sell you Scrap at your door step!</string>
+    <string name="LoginOrSignUp">Log in or Sign up</string>
+    <string name="Continue">Continue</string>
+    <string name="Or">Or</string>
+    <string name="agremmentMessage">By Continuing you agree to ourTerms of Service, Privacy Policy.</string>
+    <string name="OTPV">OTP Verification</string>
+    <string name="weSend">We have sent a verification code to  </string>
+    <string name="PlaseEanteOp">Please enter the OTP</string>
+    <string name="ResendSM">Resend SMS</string>
+    <string name="ConfirmOTP">Confim OTP</string>
+    <string name="ToadyAffor">Today’s Exclusive</string>
+    <string name="Affor">20% more earnings on waste metal sale</string>
+    <string name="sell">What you want to sell?</string>
+    <string name="GetEstimate">Get Estimate</string>
+    <string name="add">ADD +</string>
+</resources>
